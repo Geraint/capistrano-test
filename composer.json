@@ -1,0 +1,6 @@
+{
+    "name": "geraint/capistrano-test",
+    "require": {
+        "monolog/monolog": "^1.23"
+    }
+}
